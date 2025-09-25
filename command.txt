@@ -1,0 +1,27 @@
+
+
+///////// addd bellow at tsconfg.json
+
+    "allowImportingTsExtensions": true, 
+    "noEmit": true,
+
+
+
+    ////////////////Swagger settts////////
+
+    install =>npm install express swagger-ui-express swagger-jsdoc
+         =>npm install swagger-ui-express swagger-jsdoc
+           => npm install -D @types/swagger-ui-express
+
+    add at tsconfg.json =  "resolveJsonModule": true 
+
+
+
+
+    echo "# prisma_zod_swagger" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/afidhu/prisma_zod_swagger.git
+git push -u origin main
