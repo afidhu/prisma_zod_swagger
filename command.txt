@@ -1,4 +1,5 @@
 
+//////////////SWAGER LINK-> http://localhost:5000/docs/ //////////
 
 ///////// addd bellow at tsconfg.json
 
